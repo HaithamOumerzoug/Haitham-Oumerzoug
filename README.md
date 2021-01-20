@@ -1,11 +1,11 @@
 <p align="center">
   <img alt="HO" src="Images/logo.svg" width="150" height="150">
 </p>
-<h3 align="center">Mon portfolio</h3>
+<h3 align="center"><a href="https://haitham-oumerzoug.com/">Mon portfolio</a></h3>
 
 # Introduction
 -------
-Site web personnel (portfolio) basé sur CSS et le framework ** [Bootstrap 4.5](https://getbootstrap.com) ** et aussi le plugin JS / [jQuery](https://jquery.com/).
+Site web personnel [(portfolio)](https://haitham-oumerzoug.com/) basé sur CSS et le framework ** [Bootstrap 4.5](https://getbootstrap.com) ** et aussi le plugin JS / [jQuery](https://jquery.com/).
 Hautement personnalisable et facile à utiliser. Convient à de nombreuses résolutions d'écran, des petits appareils mobiles aux grands ordinateurs de bureau.
 
 # Licence
