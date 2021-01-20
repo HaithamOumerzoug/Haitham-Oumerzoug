@@ -1,4 +1,6 @@
-<h1 align="center">Haitham-Oumerzoug</h1>
+<p align="center">
+  <img alt="HO" src="Images/logo.svg">
+</p>
 <h3 align="center">Mon portfolio</h3>
 
 # Introduction
