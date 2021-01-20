@@ -5,7 +5,7 @@
 
 # Introduction
 -------
-Site web personnel (portfolio) basé sur CSS et le framework ** [Bootstrap 4.5](https://getbootstrap.com) ** et aussi le plugin JS / jQuery.
+Site web personnel (portfolio) basé sur CSS et le framework ** [Bootstrap 4.5](https://getbootstrap.com) ** et aussi le plugin JS / [jQuery](https://jquery.com/).
 Hautement personnalisable et facile à utiliser. Convient à de nombreuses résolutions d'écran, des petits appareils mobiles aux grands ordinateurs de bureau.
 
 # Licence
