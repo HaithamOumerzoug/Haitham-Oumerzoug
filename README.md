@@ -21,7 +21,7 @@ Ce theme est gratuit, open source et compatible . Vous pouvez l'utiliser vraimen
 
 #Pour me contacter :
 ---------------
-	- GitHub                      :Haitham Oumerzoug(https://github.com/HaithamOumerzoug)
+	- GitHub                      :[Haitham Oumerzoug](https://github.com/HaithamOumerzoug)
 	- LinkedIn                    : https://www.linkedin.com/in/haitham-oumerzoug-9650621a4/
 	- Facebook                    : https://www.facebook.com/HaithamOumer31
 	- Instagram                   : https://www.instagram.com/haithamoumer31/ 
