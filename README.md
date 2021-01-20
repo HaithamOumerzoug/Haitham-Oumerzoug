@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="HO" src="Images/logo.svg" width="50" height="50">
+  <img alt="HO" src="Images/logo.svg" width="150" height="150">
 </p>
 <h3 align="center">Mon portfolio</h3>
 
