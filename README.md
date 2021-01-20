@@ -21,7 +21,7 @@ Ce theme est gratuit, open source et compatible . Vous pouvez l'utiliser vraimen
 	- Opera (dernier)
 	- Microsoft Edge (dernier)
 
-# Pour me contacter :
+# Pour me contacter
 * ### `GitHub`                      : [Haitham Oumerzoug](https://github.com/HaithamOumerzoug)
 * ### `LinkedIn`                    : [Haïtham OUMERZOUG](https://www.linkedin.com/in/haitham-oumerzoug-9650621a4/)
 * ### `Facebook`                    : [HaithamOumer](https://www.facebook.com/HaithamOumer31)
