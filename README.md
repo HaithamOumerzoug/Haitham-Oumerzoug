@@ -3,7 +3,7 @@
 
 #Introduction
 -------
-Site web personnel(portfolio) basé sur CSS et le framework ** [Bootstrap 4.5] (https://getbootstrap.com) ** et aussi le plugin JS / jQuery.
+Site web personnel(portfolio) basé sur CSS et le framework ** [Bootstrap 4.5](https://getbootstrap.com) ** et aussi le plugin JS / jQuery.
 Hautement personnalisable et facile à utiliser. Convient à de nombreuses résolutions d'écran, des petits appareils mobiles aux grands ordinateurs de bureau.
 
 #Licence
@@ -21,7 +21,7 @@ Ce theme est gratuit, open source et compatible . Vous pouvez l'utiliser vraimen
 
 #Pour me contacter :
 ---------------
-	- GitHub                      :[Haitham Oumerzoug](https://github.com/HaithamOumerzoug)
+	- GitHub                      : [Haitham Oumerzoug](https://github.com/HaithamOumerzoug)
 	- LinkedIn                    : https://www.linkedin.com/in/haitham-oumerzoug-9650621a4/
 	- Facebook                    : https://www.facebook.com/HaithamOumer31
 	- Instagram                   : https://www.instagram.com/haithamoumer31/ 
