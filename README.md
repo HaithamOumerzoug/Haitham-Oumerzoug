@@ -22,7 +22,7 @@ Ce theme est gratuit, open source et compatible . Vous pouvez l'utiliser vraimen
 	- Microsoft Edge (dernier)
 
 # Pour me contacter
-* ### `GitHub`                      : [Haitham Oumerzoug](https://github.com/HaithamOumerzoug)
-* ### `LinkedIn`                    : [Haïtham OUMERZOUG](https://www.linkedin.com/in/haitham-oumerzoug-9650621a4/)
-* ### `Facebook`                    : [HaithamOumer](https://www.facebook.com/HaithamOumer31)
-* ### `Instagram`                   : [haitham_artisan](https://www.instagram.com/haitham_artisan/) 
+* ### [GitHub](https://github.com/HaithamOumerzoug)
+* ### [LinkedIn](https://www.linkedin.com/in/haitham-oumerzoug-9650621a4/)
+* ### [Facebook](https://www.facebook.com/HaithamOumer31)
+* ### [Instagram](https://www.instagram.com/haitham_artisan/) 
